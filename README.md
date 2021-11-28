@@ -13,6 +13,7 @@
 ![민서(DJ) 사진3](https://user-images.githubusercontent.com/55537056/143765210-a1c727c8-2111-40d0-bc15-ebf2a8d1d0fc.JPG){: width="45%" height="45%"}
 ![ms-logo-black](https://user-images.githubusercontent.com/55537056/143765180-9c6b0933-8b96-47d6-bf3e-c9ba3355659c.jpeg){: width="40%" height="40%"}
 <img width="720" alt="정우 사진1" src="https://user-images.githubusercontent.com/55537056/143765632-6831606b-7b51-48db-80b9-a27a87f6c25e.png" width="45%" height="40%">
+<img width="573" alt="정우 사진2" src="https://user-images.githubusercontent.com/55537056/143766459-416ff26e-a945-4b6e-af8a-085c30796749.png" width="45%" height="40%">
 <img width="686" alt="정우 사진3" src="https://user-images.githubusercontent.com/55537056/143765637-d6049301-db5d-458b-a997-bf97a2c91fe3.png" width="45%" height="40%">
 
 
