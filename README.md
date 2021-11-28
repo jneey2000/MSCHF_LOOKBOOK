@@ -12,3 +12,6 @@
 <img width="720" alt="정우 사진1" src="https://user-images.githubusercontent.com/55537056/143765632-6831606b-7b51-48db-80b9-a27a87f6c25e.png" width="40%" height="40%">
 <img width="573" alt="정우 사진2" src="https://user-images.githubusercontent.com/55537056/143765635-9155e9b4-3b60-46a8-940c-2a18270a8cf4.png" width="40%" height="40%">
 <img width="686" alt="정우 사진3" src="https://user-images.githubusercontent.com/55537056/143765637-d6049301-db5d-458b-a997-bf97a2c91fe3.png" width="40%" height="40%">
+<img width="720" alt="정아 사진1" src="https://user-images.githubusercontent.com/55537056/143765661-ad03c49d-88bf-47ef-993a-b6fe3c0db859.png" width="50%" height="55%">
+<img width="720" alt="정아 사진2" src="https://user-images.githubusercontent.com/55537056/143765672-3a76c91c-385f-49e2-b083-54a809cb4765.png" width="50%" height="55%">
+<img width="739" alt="정아 사진3" src="https://user-images.githubusercontent.com/55537056/143765683-923745e8-f938-498e-bc02-81d971ce103b.png" width="50%" height="55%">
