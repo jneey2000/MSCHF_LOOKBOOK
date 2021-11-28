@@ -9,3 +9,6 @@
 ![민서(DJ) 사진1](https://user-images.githubusercontent.com/55537056/143765198-d1809338-6af8-4833-84c1-0627d0133738.JPG){: width="40%" height="40%"}
 ![민서(DJ) 사진2](https://user-images.githubusercontent.com/55537056/143765206-4b2bed26-ac18-4b0e-9f01-fd65836c7b6f.JPG){: width="40%" height="40%"}
 ![민서(DJ) 사진3](https://user-images.githubusercontent.com/55537056/143765210-a1c727c8-2111-40d0-bc15-ebf2a8d1d0fc.JPG){: width="40%" height="40%"}
+<img width="720" alt="정우 사진1" src="https://user-images.githubusercontent.com/55537056/143765632-6831606b-7b51-48db-80b9-a27a87f6c25e.png" width="40%" height="40%">
+<img width="573" alt="정우 사진2" src="https://user-images.githubusercontent.com/55537056/143765635-9155e9b4-3b60-46a8-940c-2a18270a8cf4.png" width="40%" height="40%">
+<img width="686" alt="정우 사진3" src="https://user-images.githubusercontent.com/55537056/143765637-d6049301-db5d-458b-a997-bf97a2c91fe3.png" width="40%" height="40%">
